@@ -147,7 +147,7 @@ header::before {
 #hotels {
     height: 550px;
     position: relative;
-     overflow: hidden;
+/*      overflow: hidden; */
     margin: 24px auto;
 }
 
